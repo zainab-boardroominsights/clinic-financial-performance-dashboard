@@ -1,1 +1,1 @@
-
+Screenshots for dashboard previews
