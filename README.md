@@ -285,4 +285,4 @@ This project is part of my growing analytics portfolio focused on:
 
 Through Boardroom Insights, I aim to combine finance, strategy, and analytics into solutions that help businesses create clarity, visibility, and smarter decision-making.
 
----actionable management insights using Power BI.
+---
