@@ -1,209 +1,44 @@
-# Clinic Performance Dashboard | Power BI
+# Clinic Financial Performance Dashboard
 
-## Project Overview
+## Overview
 
-The Clinic Performance Dashboard is a comprehensive 8-page Power BI solution designed to provide healthcare management with complete visibility into operational, financial, and patient performance metrics.
+This project is an executive-level healthcare business intelligence solution developed in Power BI to provide centralized visibility into clinic financial performance, operational efficiency, patient analytics, profitability, and cash flow management.
 
-This dashboard enables clinic leadership, finance teams, and operational managers to monitor business health, improve profitability, optimize operational efficiency, and make data-driven decisions through interactive visual analytics.
+The dashboard consolidates financial and operational healthcare data into a comprehensive reporting system designed to support leadership decision-making across revenue performance, patient behavior, departmental efficiency, profitability analysis, and balance sheet monitoring.
 
-The solution combines financial reporting, patient analytics, profitability tracking, and cash management into a centralized executive reporting platform.
+The objective of this project was to transform fragmented clinic reporting into an interactive and executive-focused analytics platform that enables faster, smarter, and more data-driven healthcare management.
 
 ---
 
 # Business Problem
 
-Healthcare clinics often struggle with:
+Healthcare organizations often face challenges such as:
 
-- Fragmented operational and financial reporting
-- Limited visibility into clinic profitability
-- Difficulty tracking patient trends and revenue drivers
-- Lack of centralized KPI monitoring
-- Delayed financial insights for decision-making
-- Poor visibility into operational expenses and cash flow
-- Challenges in monitoring balance sheet performance
+- fragmented operational and financial reporting
+- limited visibility into clinic profitability
+- difficulty tracking patient trends
+- lack of centralized KPI monitoring
+- delayed financial performance insights
+- limited cash flow visibility
+- disconnected balance sheet reporting
+- inefficient departmental performance tracking
 
-Management teams require a centralized business intelligence solution that transforms raw healthcare and financial data into actionable insights.
-
-This dashboard addresses these challenges by creating a unified analytics platform for clinic operations and financial management.
-
----
-
-# Dashboard Objectives
-
-The primary objectives of this dashboard are:
-
-- Monitor clinic financial performance
-- Track revenue growth and profitability
-- Analyze patient behavior and trends
-- Evaluate operational efficiency
-- Monitor expense control
-- Improve executive reporting
-- Support strategic financial planning
-- Enable faster management decisions
+This dashboard was developed to solve these challenges through centralized and interactive healthcare analytics.
 
 ---
 
-# Dashboard Highlights
+# Project Objectives
 
-- 8-page executive healthcare dashboard
-- End-to-end financial and operational reporting
-- Executive KPI tracking
-- Revenue and profitability analysis
-- Cash position monitoring
-- Balance sheet analytics
-- Patient trend analysis
-- Interactive drill-through reporting
-- Dynamic Power BI visualizations
-- Executive-level KPI reporting
-- Financial storytelling through data
+The dashboard was designed to help management:
 
----
-
-# Dashboard Pages
-
-## 1. Executive Overview
-
-High-level summary page providing management with a snapshot of:
-
-- Revenue performance
-- Profitability indicators
-- Patient statistics
-- Key operational KPIs
-- Growth trends
-- Financial highlights
-
-### Key Insights
-- Overall business health
-- Monthly trend analysis
-- Executive KPI tracking
-- Strategic performance monitoring
-
----
-
-## 2. Revenue Analysis
-
-Detailed revenue analytics dashboard focused on:
-
-- Revenue trends
-- Revenue by department/service
-- Monthly revenue growth
-- Revenue contribution analysis
-- Revenue variance analysis
-
-### Business Value
-- Identify top-performing revenue streams
-- Monitor sales growth
-- Improve revenue forecasting
-- Analyze service performance
-
----
-
-## 3. Performance Dashboard
-
-Operational performance tracking for clinic activities.
-
-### Includes
-- KPI tracking
-- Department performance
-- Productivity analysis
-- Operational efficiency indicators
-- Trend comparisons
-
-### Business Value
-- Improve operational efficiency
-- Identify underperforming areas
-- Support performance management
-
----
-
-## 4. Patient Analytics
-
-Comprehensive patient analysis dashboard covering:
-
-- Patient growth trends
-- New vs returning patients
-- Patient segmentation
-- Appointment analytics
-- Patient activity insights
-
-### Business Value
-- Understand patient behavior
-- Improve patient retention
-- Analyze patient acquisition trends
-- Support operational planning
-
----
-
-## 5. Profitability Analysis
-
-Financial profitability dashboard focused on:
-
-- Gross profit analysis
-- Net profitability
-- Margin analysis
-- Department profitability
-- Profit trends
-
-### Business Value
-- Improve margin visibility
-- Identify profitable services
-- Support strategic pricing decisions
-- Monitor financial performance
-
----
-
-## 6. Operating Expenses (OPEX)
-
-Expense monitoring and cost management dashboard.
-
-### Includes
-- Expense category analysis
-- OPEX trends
-- Expense distribution
-- Cost variance analysis
-- Department expense monitoring
-
-### Business Value
-- Improve cost control
-- Identify expense optimization opportunities
-- Support budgeting decisions
-
----
-
-## 7. Balance Sheet Dashboard
-
-Balance sheet analytics for financial position monitoring.
-
-### Includes
-- Assets analysis
-- Liability tracking
-- Equity monitoring
-- Financial position trends
-- Ratio analysis
-
-### Business Value
-- Improve financial visibility
-- Monitor financial stability
-- Support executive finance reporting
-
----
-
-## 8. Cash Position Dashboard
-
-Cash flow and liquidity management dashboard.
-
-### Includes
-- Cash inflows and outflows
-- Liquidity monitoring
-- Cash movement trends
-- Cash balance tracking
-- Working capital visibility
-
-### Business Value
-- Improve cash management
-- Monitor liquidity health
-- Support treasury planning
-- Enhance financial control
+- monitor clinic financial performance
+- analyze revenue and profitability trends
+- track patient growth and retention
+- monitor departmental efficiency
+- improve operational visibility
+- analyze balance sheet health
+- monitor cash position and liquidity
+- support executive healthcare decision-making
 
 ---
 
@@ -211,85 +46,243 @@ Cash flow and liquidity management dashboard.
 
 - Power BI
 - Power Query
-- DAX
-- Data Modeling
-- Financial Analytics
-- Interactive Visualization Design
-- Business Intelligence Reporting
-
----
-
-# Skills Demonstrated
-
-## Financial Analytics
-- Revenue Analysis
-- Profitability Analysis
-- Cash Flow Monitoring
-- Balance Sheet Analytics
-- OPEX Analysis
-
-## Power BI Development
 - DAX Measures
-- Data Modeling
-- Power Query Transformation
-- Interactive Dashboards
-- KPI Reporting
-
-## Business Intelligence
-- Executive Reporting
-- Dashboard Design
-- Data Storytelling
-- Performance Analytics
-- Strategic Reporting
+- Microsoft Excel
+- Financial Analytics
+- Healthcare KPI Reporting
+- Executive Dashboard Design
+- Interactive Dashboard Filters
+- Business Intelligence Reporting
+- Operational Analytics
+- Profitability Analysis
+- Cash Flow Analytics
 
 ---
 
-# Project Impact
+# Data Source
 
-This dashboard helps healthcare management:
+### Source Type:
+Microsoft Excel
 
-- Gain centralized business visibility
-- Improve financial decision-making
-- Monitor operational efficiency
-- Enhance reporting capabilities
-- Track profitability effectively
-- Improve strategic planning
+### Data Includes:
+
+- Patient Transactions
+- Revenue Data
+- Operational Expenses
+- Department Performance
+- Profitability Metrics
+- Balance Sheet Information
+- Cash Position Data
+- Patient Analytics
+- Healthcare KPI Metrics
+- Financial Performance Data
+
+---
+
+# Dashboard Modules
+
+## Overview Dashboard
+
+Provides a high-level summary of:
+
+- total revenue
+- EBITDA performance
+- patient growth
+- profitability trends
+- operational KPIs
+- financial performance indicators
+- clinic performance visibility
+
+![Overview Dashboard](screenshots/overview-dashboard.png)
+
+---
+
+## Revenue Dashboard
+
+Focused on:
+
+- revenue trends
+- revenue growth analysis
+- department-wise revenue
+- monthly revenue tracking
+- revenue contribution analysis
+- healthcare service performance
+
+![Revenue Dashboard](screenshots/revenue-dashboard.png)
+
+---
+
+## Performance Dashboard
+
+Focused on:
+
+- operational efficiency
+- clinic performance KPIs
+- departmental performance
+- service utilization analysis
+- efficiency monitoring
+- performance benchmarking
+
+![Performance Dashboard](screenshots/performance-dashboard.png)
+
+---
+
+## Patients Dashboard
+
+Focused on:
+
+- patient growth trends
+- repeat patient analysis
+- patient segmentation
+- patient retention metrics
+- patient volume analysis
+- patient behavior insights
+
+![Patients Dashboard](screenshots/patients-dashboard.png)
+
+---
+
+## Profitability Dashboard
+
+Focused on:
+
+- EBITDA analysis
+- gross profit trends
+- net profitability
+- department profitability
+- margin analysis
+- profitability performance tracking
+
+![Profitability Dashboard](screenshots/profitability-dashboard.png)
+
+---
+
+## OPEX Dashboard
+
+Focused on:
+
+- operational expense analysis
+- expense category tracking
+- cost monitoring
+- monthly OPEX trends
+- cost efficiency analysis
+- expense variance tracking
+
+![OPEX Dashboard](screenshots/opex-dashboard.png)
+
+---
+
+## Balance Sheet Dashboard
+
+Focused on:
+
+- assets analysis
+- liabilities monitoring
+- equity analysis
+- working capital visibility
+- financial position monitoring
+- balance sheet health tracking
+
+![Balance Sheet Dashboard](screenshots/balance-sheet-dashboard.png)
+
+---
+
+## Cash Position Dashboard
+
+Focused on:
+
+- cash flow visibility
+- liquidity monitoring
+- cash position tracking
+- cash movement trends
+- operational cash management
+- financial stability monitoring
+
+![Cash Position Dashboard](screenshots/cash-position-dashboard.png)
+
+---
+
+# Key KPIs Tracked
+
+- Total Revenue
+- EBITDA
+- Gross Profit Margin %
+- Net Profit Margin %
+- Total Patients
+- Repeat Patient %
+- Revenue Growth %
+- OPEX Ratio
+- Department Performance
+- Cash Position
+- Working Capital
+- Balance Sheet Ratios
+- Monthly Growth Trends
+- Operational Efficiency Metrics
+
+---
+
+# Key Insights Generated
+
+- Improved visibility into clinic financial performance
+- Enabled executive monitoring of operational efficiency
+- Identified profitability trends across departments
+- Enhanced patient analytics visibility
+- Improved monitoring of healthcare revenue growth
+- Strengthened cash flow and liquidity tracking
+- Supported data-driven healthcare decision-making
+- Centralized financial and operational reporting
 
 ---
 
 # Repository Structure
 
-clinic-performance-dashboard/
+```text
+clinic-financial-performance-dashboard/
 │
 ├── README.md
-├── Clinic Performance Dashboard.pbix
+├── clinic-financial-performance-dashboard.pbix
+├── clinic-dashboard-data.xlsx
 │
 ├── screenshots/
 │   ├── overview-dashboard.png
-│   ├── revenue-analysis.png
+│   ├── revenue-dashboard.png
 │   ├── performance-dashboard.png
-│   ├── patient-analytics.png
-│   ├── profitability-analysis.png
+│   ├── patients-dashboard.png
+│   ├── profitability-dashboard.png
 │   ├── opex-dashboard.png
 │   ├── balance-sheet-dashboard.png
 │   └── cash-position-dashboard.png
-│
-└── assets/
-    └── data-model.png
+```
 
 ---
 
-# Future Enhancements
+# Business Value Delivered
 
-Potential future improvements include:
+This dashboard helps healthcare leadership teams:
 
-- Forecasting & predictive analytics
-- Real-time reporting integration
-- Budget vs Actual analysis
-- Mobile dashboard optimization
+- improve operational visibility
+- strengthen financial monitoring
+- analyze profitability performance
+- monitor patient behavior trends
+- improve healthcare decision-making
+- track clinic growth and efficiency
+- centralize executive reporting
+- improve financial planning and control
 
 ---
 
 # About This Project
 
-This project was developed as part of a business intelligence and financial analytics portfolio focused on transforming operational and financial healthcare data into actionable management insights using Power BI.
+This project is part of my growing analytics portfolio focused on:
+
+- Executive Business Intelligence
+- Financial Analytics
+- Healthcare Analytics
+- KPI & Performance Reporting
+- Business Performance Management
+- Finance Transformation
+- Operational Intelligence
+
+Through Boardroom Insights, I aim to combine finance, strategy, and analytics into solutions that help businesses create clarity, visibility, and smarter decision-making.
+
+---actionable management insights using Power BI.
